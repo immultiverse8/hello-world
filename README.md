@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+I think react is better than angular, prove me wrong.
